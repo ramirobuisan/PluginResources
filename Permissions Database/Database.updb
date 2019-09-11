@@ -5259,3 +5259,18 @@ uSkyBlock+usb.party.join+Display the party GUI with information about your islan
 uSkyBlock+usb.party.kick+Remove a player from your island+/island kick [player]
 uSkyBlock+usb.party.leave+Leave your current island (If you are the party leader, you will keep the island and remove all other players)+/island leave
 uSkyBlock+usb.party.talk+Island talk between party members server wide+/partytalk,/ptalk,/ptk
+Minepacks+backpack.*+ - Gives access to the full MinePacks functionality. (for admins)
+Minepacks+backpack.use+ - Allows a player to open their backpack. Some permission plugins have problems with this permission. Please use the "backpack" permission in cause this permission is not working for you.
+Minepacks+backpack.fullpickup+ - Allows the player to automatically pick up items when their inventory is full (function needs to be enabled in the config)
+Minepacks+backpack.size.1+ - Mini size for a backpack, if the player has backpack permission he will also have at least a backpack with the size 1.
+Minepacks+backpack.size.2+ - 2*9 backpack
+Minepacks+backpack.size.3+ - 3*9 backpack
+Minepacks+backpack.size.4+ - 4*9 backpack
+Minepacks+backpack.size.5+ - 5*9 backpack
+Minepacks+backpack.size.6+ - 6*9 backpack
+Minepacks+backpack.clean+ - Allows the player to clean their own backpack.
+Minepacks+backpack.clean.other+ - Allows the player to clean other players backpacks.
+Minepacks+backpack.others+ - Allows the player open backpacks of other players.
+Minepacks+backpack.others.edit+ - Allows the player to edit backpacks of other players.
+Minepacks+backpack.keepOnDeath+ - Allows the player to keep their items in their backpack on death.
+Minepacks+backpack.noCooldown+ - Allows to bypass the cooldown to open the backpack.
